@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ene-n.GitHub.io</id>
-    <title>Ene-n</title>
-    <updated>2020-01-18T13:39:24.483Z</updated>
+    <title>Ene-n的作品展</title>
+    <updated>2020-01-18T13:43:38.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ene-n.GitHub.io"/>
     <link rel="self" href="https://Ene-n.GitHub.io/atom.xml"/>
-    <subtitle>迎接美丽的Stars OS——一个PPT构成的世界</subtitle>
+    <subtitle>一份PPT，甚至可以构成一个世界</subtitle>
     <logo>https://Ene-n.GitHub.io/images/avatar.png</logo>
     <icon>https://Ene-n.GitHub.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Ene-n</rights>
+    <rights>All rights reserved 2020, Ene-n的作品展</rights>
     <entry>
         <title type="html"><![CDATA[Stars OS 2.0.3.5 VBA版本 beta]]></title>
         <id>https://Ene-n.GitHub.io/post/stars-os-beta</id>

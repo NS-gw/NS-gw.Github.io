@@ -6,7 +6,7 @@
 <meta HTTP-EQUIV="pragma" CONTENT="no-cache"> 
 <meta HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate"> 
 <meta HTTP-EQUIV="expires" CONTENT="0"> 
-<title>Ene-n</title>	
+<title>Ene-n的作品展</title>	
 
 <link rel="stylesheet" href="https://Ene-n.GitHub.io/styles/main.css">
 <script type="text/javascript">
@@ -17,11 +17,19 @@ function getCSS()
         datetoday.setTime(timenow);
         thehour = datetoday.getHours();
 
+        if (thehour<24时)
+
             display = "https://Ene-n.GitHub.io/media/css/night.css";
 
+       else if (thehour>1时)
+
             display = "https://Ene-n.GitHub.io/media/css/night.css";   
-      
+
+        else if (thehour>24时)
+           
             display = "https://Ene-n.GitHub.io/media/css/day.css";
+
+        else if (thehour<1时)
 
             display = "https://Ene-n.GitHub.io/media/css/day.css";
       
@@ -54,9 +62,9 @@ window.onload=getCSS();
 
 			<header id="header" class="site-header" >
 			<div class="site-branding">
-									<h1 class="site-title"><a href="https://Ene-n.GitHub.io" rel="home">Ene-n</a></h1>
+									<h1 class="site-title"><a href="https://Ene-n.GitHub.io" rel="home">Ene-n的作品展</a></h1>
 										
-					<h2 class="site-description">迎接美丽的Stars OS——一个PPT构成的世界</h2>
+					<h2 class="site-description">一份PPT，甚至可以构成一个世界</h2>
 										
 							</div>
 			<nav id="nav-wrapper">
