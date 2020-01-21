@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Ene-n.GitHub.io</id>
     <title>NS Studio</title>
-    <updated>2020-01-20T02:47:59.011Z</updated>
+    <updated>2020-01-21T03:51:19.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Ene-n.GitHub.io"/>
     <link rel="self" href="https://Ene-n.GitHub.io/atom.xml"/>
@@ -16,7 +16,10 @@
         <link href="https://Ene-n.GitHub.io/post/stars-os-beta">
         </link>
         <updated>2020-01-17T01:38:05.000Z</updated>
+        <summary type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://Ene-n.GitHub.io/post-images/1579244240863.png" alt="" loading="lazy"></figure>
+]]></summary>
         <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://Ene-n.GitHub.io/post-images/1579244240863.png" alt="" loading="lazy"></figure>
+<!-- more -->
 <h1 id="stars-os功能">Stars OS功能</h1>
 <h2 id="vba功能">VBA功能</h2>
 <p>VBA 功能，我们目前开发了 <strong>“计算器”</strong> <strong>“日历”</strong> 。</p>
@@ -25,9 +28,12 @@
 <h1 id="其实">其实</h1>
 <p>只是用PPT做简单互动而已......只不过有点用</p>
 <h1 id="下载地址">下载地址</h1>
-<h2 id="stars-2035-vba版本">Stars 2.0.3.5 VBA版本</h2>
+<h2 id="stars-2035-vba版本包含素材库">Stars 2.0.3.5 VBA版本（包含素材库）</h2>
 <p><em>曲奇云盘下载地址</em><br>
 <a href="https://quqi.gblhgk.com/s/576274/SCKWHFojWJEbGBA3">|下载|</a></p>
+<h2 id="stars-素材库">Stars 素材库</h2>
+<p><em>曲奇云盘下载地址</em><br>
+<a href="https://quqi.gblhgk.com/s/576274/ADb7SN7Yr7k2oLBs">|下载|</a></p>
 ]]></content>
     </entry>
 </feed>
