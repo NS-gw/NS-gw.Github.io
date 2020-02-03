@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NS-gw.GitHub.io</id>
     <title>NS Studio</title>
-    <updated>2020-02-02T08:29:10.202Z</updated>
+    <updated>2020-02-03T13:29:20.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NS-gw.GitHub.io"/>
     <link rel="self" href="https://NS-gw.GitHub.io/atom.xml"/>
@@ -11,6 +11,23 @@
     <logo>https://NS-gw.GitHub.io/images/avatar.png</logo>
     <icon>https://NS-gw.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NS Studio</rights>
+    <entry>
+        <title type="html"><![CDATA[NS studio招人啦！！！]]></title>
+        <id>https://NS-gw.GitHub.io/post/3krevMsR9</id>
+        <link href="https://NS-gw.GitHub.io/post/3krevMsR9">
+        </link>
+        <updated>2020-02-03T13:25:55.000Z</updated>
+        <content type="html"><![CDATA[<p>NS studio 由于<strong>某种原因</strong>，缺少技术人员，当然你当学徒也莫得问题<br>
+当然，学PPT制作技术<br>
+当然，不要钱</p>
+<blockquote>
+<p>有兴趣者：<br>
+QQ群644905534<br>
+或我2068352714</p>
+</blockquote>
+<p>2020年 2月 3日</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stars OS 2.0.4.1 VBA版本 beta]]></title>
         <id>https://NS-gw.GitHub.io/post/stars-os-beta</id>
