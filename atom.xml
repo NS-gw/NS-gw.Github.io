@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NS-gw.GitHub.io</id>
     <title>NS Studio</title>
-    <updated>2020-03-16T08:31:37.893Z</updated>
+    <updated>2020-03-18T07:48:35.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NS-gw.GitHub.io"/>
     <link rel="self" href="https://NS-gw.GitHub.io/atom.xml"/>
@@ -43,7 +43,7 @@ QQ群 644905534<br>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stars OS 4.0.2.2003-Alpha VBA版本]]></title>
+        <title type="html"><![CDATA[Stars GUI 4.0.2.2003-Alpha VBA版本]]></title>
         <id>https://NS-gw.GitHub.io/post/stars-os-beta</id>
         <link href="https://NS-gw.GitHub.io/post/stars-os-beta">
         </link>
